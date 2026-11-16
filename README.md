@@ -13,7 +13,8 @@ original run was 9.44 × 10⁻¹⁶. See `VALIDATION_ZH.md` and `validation.json
 execution checks and comparison results.
 
 **Version:** `access-reproduction-2026-11-16`  
-**Release status:** local package awaiting publication by the author.
+**Repository:** https://github.com/Lucienus/Dota2_Matches_Research
+**Release status:** published in the repository. The version above identifies this package; no GitHub release tag is implied.
 
 ## Package contents
 
