@@ -1,0 +1,47 @@
+{
+  "category_results.csv": {
+    "rows": 1360,
+    "max_numeric_difference": 1.6653345369377348e-16,
+    "text_differences": []
+  },
+  "common40_trajectory.csv": {
+    "rows": 68,
+    "max_numeric_difference": 0.0,
+    "text_differences": []
+  },
+  "group_G_N_contrasts.csv": {
+    "rows": 60,
+    "max_numeric_difference": 0.0,
+    "text_differences": []
+  },
+  "main_results.csv": {
+    "rows": 68,
+    "max_numeric_difference": 1.1102230246251565e-16,
+    "text_differences": []
+  },
+  "per_seed_results.csv": {
+    "rows": 536,
+    "max_numeric_difference": 5.551115123125783e-17,
+    "text_differences": []
+  },
+  "resolution_parameters.csv": {
+    "rows": 60,
+    "max_numeric_difference": 0.0,
+    "text_differences": []
+  },
+  "sampling_sensitivities.csv": {
+    "rows": 24,
+    "max_numeric_difference": 4.336808689942018e-19,
+    "text_differences": []
+  },
+  "scope_contrasts.csv": {
+    "rows": 48,
+    "max_numeric_difference": 0.0,
+    "text_differences": []
+  },
+  "secondary_comparisons.csv": {
+    "rows": 76,
+    "max_numeric_difference": 5.204170427930421e-18,
+    "text_differences": []
+  }
+}

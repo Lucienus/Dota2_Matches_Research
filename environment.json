@@ -1,0 +1,18 @@
+{
+  "gpu": "NVIDIA GeForce RTX 4070 SUPER",
+  "packages": {
+    "numpy": "2.5.3",
+    "torch": "2.11.0+cu128",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "xgboost": "3.4.1",
+    "lightgbm": "4.7.0",
+    "joblib": "1.6.0",
+    "psutil": "7.2.2"
+  },
+  "statistics_tests": 14,
+  "system_site_packages": false,
+  "python": "3.12.14",
+  "isolated_environment": true,
+  "installation": "Fresh venv; PyTorch installed from cached official wheel; remaining dependencies installed by pip; pip check passed"
+}

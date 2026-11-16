@@ -1,0 +1,20 @@
+{
+  "category20.tex": true,
+  "cohorts.tex": true,
+  "cost20.tex": true,
+  "main_results.tex": true,
+  "paired.tex": true,
+  "result_macros.tex": true,
+  "scope20.tex": true,
+  "s_all_costs.tex": true,
+  "s_all_results.tex": true,
+  "s_category_original.tex": true,
+  "s_common.tex": true,
+  "s_extra_baselines.tex": true,
+  "s_other_metrics.tex": true,
+  "s_parameters.tex": true,
+  "s_repeat_draws.tex": true,
+  "s_sampling.tex": true,
+  "s_scope.tex": true,
+  "s_timing_ranges.tex": true
+}

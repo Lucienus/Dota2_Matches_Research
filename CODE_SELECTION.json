@@ -1,0 +1,17 @@
+{
+  "original_modules": [
+    "Dota2_matches/data_protocol.py",
+    "Dota2_matches/evaluation.py",
+    "Dota2_matches/feature_extractor.py",
+    "Dota2_matches/v4_objectives.py",
+    "revision_2026-11-11/wp3_models/baselines.py",
+    "revision_2026-11-11/wp3_models/controlled_models.py",
+    "revision_2026-11-11/wp3_models/inputs.py",
+    "revision_2026-11-11/wp3_models/runtime.py",
+    "revision_2026-11-11/wp4_training/common4.py",
+    "revision_2026-11-11/wp4_training/engine.py",
+    "revision_2026-11-11/wp4_training/prepare_development.py",
+    "revision_2026-11-11/wp6_evaluation/statistics6.py"
+  ],
+  "selection": "runtime imports of extraction, fitting, prediction and scoring; original collectors, diagnostics, dashboards, process controllers and obsolete launchers omitted"
+}

@@ -1,0 +1,80 @@
+{
+  "release": "access-reproduction-2026-11-16",
+  "independent_environment": {
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER",
+    "packages": {
+      "numpy": "2.5.3",
+      "torch": "2.11.0+cu128",
+      "scipy": "1.18.1",
+      "scikit-learn": "1.9.1",
+      "xgboost": "3.4.1",
+      "lightgbm": "4.7.0",
+      "joblib": "1.6.0",
+      "psutil": "7.2.2"
+    },
+    "statistics_tests": 14,
+    "system_site_packages": false,
+    "python": "3.12.14",
+    "isolated_environment": true,
+    "installation": "Fresh venv; PyTorch installed from cached official wheel; remaining dependencies installed by pip; pip check passed"
+  },
+  "reconstructed_array_checks": {
+    "broad_10m.npz": true,
+    "broad_20m.npz": true,
+    "broad_30m.npz": true,
+    "broad_40m.npz": true,
+    "listed_10m.npz": true,
+    "listed_20m.npz": true,
+    "listed_30m.npz": true,
+    "listed_40m.npz": true,
+    "broad_matched_10m.npz": true,
+    "broad_matched_20m.npz": true,
+    "broad_matched_30m.npz": true,
+    "broad_matched_40m.npz": true,
+    "labels_10m.npz": true,
+    "labels_20m.npz": true,
+    "labels_30m.npz": true,
+    "labels_40m.npz": true
+  },
+  "holdout_counts": {
+    "10": 7740,
+    "20": 7541,
+    "30": 5221,
+    "40": 2118
+  },
+  "prediction_vectors": 536,
+  "bitwise_identical_prediction_vectors": 492,
+  "max_probability_difference": 9.43689570931383e-16,
+  "report_csv_count": 9,
+  "max_report_difference": 1.6653345369377348e-16,
+  "displayed_tables_and_macros_equal": {
+    "category20.tex": true,
+    "cohorts.tex": true,
+    "cost20.tex": true,
+    "main_results.tex": true,
+    "paired.tex": true,
+    "result_macros.tex": true,
+    "scope20.tex": true,
+    "s_all_costs.tex": true,
+    "s_all_results.tex": true,
+    "s_category_original.tex": true,
+    "s_common.tex": true,
+    "s_extra_baselines.tex": true,
+    "s_other_metrics.tex": true,
+    "s_parameters.tex": true,
+    "s_repeat_draws.tex": true,
+    "s_sampling.tex": true,
+    "s_scope.tex": true,
+    "s_timing_ranges.tex": true
+  },
+  "baseline_retraining": {
+    "scope": "broad",
+    "minute": 20,
+    "model": "gold_xp_lr",
+    "n_train": 33548,
+    "n_validation": 7200,
+    "validation_log_loss": 0.49085127286109204
+  },
+  "all_models_retrained_this_validation": false,
+  "public_repository_modified": false
+}

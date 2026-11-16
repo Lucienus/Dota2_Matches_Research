@@ -1,0 +1,182 @@
+{
+  "vectors": 536,
+  "max_probability_difference": 9.43689570931383e-16,
+  "non_identical": [
+    {
+      "path": "broad/10m/full_feature_lr/seed111001.npz",
+      "max_delta": 4.440892098500626e-16
+    },
+    {
+      "path": "broad/10m/random_forest/seed111001.npz",
+      "max_delta": 2.220446049250313e-16
+    },
+    {
+      "path": "broad/10m/random_forest/seed111017.npz",
+      "max_delta": 2.220446049250313e-16
+    },
+    {
+      "path": "broad/10m/random_forest/seed111031.npz",
+      "max_delta": 2.220446049250313e-16
+    },
+    {
+      "path": "broad/10m/random_forest/seed111043.npz",
+      "max_delta": 2.220446049250313e-16
+    },
+    {
+      "path": "broad/10m/random_forest/seed111059.npz",
+      "max_delta": 2.220446049250313e-16
+    },
+    {
+      "path": "broad/10m/random_forest/seed111071.npz",
+      "max_delta": 2.220446049250313e-16
+    },
+    {
+      "path": "broad/10m/random_forest/seed111089.npz",
+      "max_delta": 3.3306690738754696e-16
+    },
+    {
+      "path": "broad/10m/random_forest/seed111103.npz",
+      "max_delta": 2.220446049250313e-16
+    },
+    {
+      "path": "broad/10m/random_forest/seed111127.npz",
+      "max_delta": 3.3306690738754696e-16
+    },
+    {
+      "path": "broad/10m/random_forest/seed111139.npz",
+      "max_delta": 2.220446049250313e-16
+    },
+    {
+      "path": "broad/20m/full_feature_lr/seed111001.npz",
+      "max_delta": 2.220446049250313e-16
+    },
+    {
+      "path": "broad/20m/random_forest/seed111001.npz",
+      "max_delta": 4.440892098500626e-16
+    },
+    {
+      "path": "broad/20m/random_forest/seed111017.npz",
+      "max_delta": 2.220446049250313e-16
+    },
+    {
+      "path": "broad/20m/random_forest/seed111031.npz",
+      "max_delta": 2.220446049250313e-16
+    },
+    {
+      "path": "broad/20m/random_forest/seed111043.npz",
+      "max_delta": 2.220446049250313e-16
+    },
+    {
+      "path": "broad/20m/random_forest/seed111059.npz",
+      "max_delta": 2.220446049250313e-16
+    },
+    {
+      "path": "broad/20m/random_forest/seed111071.npz",
+      "max_delta": 4.440892098500626e-16
+    },
+    {
+      "path": "broad/20m/random_forest/seed111089.npz",
+      "max_delta": 2.220446049250313e-16
+    },
+    {
+      "path": "broad/20m/random_forest/seed111103.npz",
+      "max_delta": 2.220446049250313e-16
+    },
+    {
+      "path": "broad/20m/random_forest/seed111127.npz",
+      "max_delta": 4.440892098500626e-16
+    },
+    {
+      "path": "broad/20m/random_forest/seed111139.npz",
+      "max_delta": 4.440892098500626e-16
+    },
+    {
+      "path": "broad/30m/full_feature_lr/seed111001.npz",
+      "max_delta": 2.220446049250313e-16
+    },
+    {
+      "path": "broad/30m/random_forest/seed111001.npz",
+      "max_delta": 2.220446049250313e-16
+    },
+    {
+      "path": "broad/30m/random_forest/seed111017.npz",
+      "max_delta": 4.440892098500626e-16
+    },
+    {
+      "path": "broad/30m/random_forest/seed111031.npz",
+      "max_delta": 4.440892098500626e-16
+    },
+    {
+      "path": "broad/30m/random_forest/seed111043.npz",
+      "max_delta": 4.440892098500626e-16
+    },
+    {
+      "path": "broad/30m/random_forest/seed111059.npz",
+      "max_delta": 2.220446049250313e-16
+    },
+    {
+      "path": "broad/30m/random_forest/seed111071.npz",
+      "max_delta": 2.220446049250313e-16
+    },
+    {
+      "path": "broad/30m/random_forest/seed111089.npz",
+      "max_delta": 4.440892098500626e-16
+    },
+    {
+      "path": "broad/30m/random_forest/seed111103.npz",
+      "max_delta": 2.220446049250313e-16
+    },
+    {
+      "path": "broad/30m/random_forest/seed111127.npz",
+      "max_delta": 4.440892098500626e-16
+    },
+    {
+      "path": "broad/30m/random_forest/seed111139.npz",
+      "max_delta": 3.3306690738754696e-16
+    },
+    {
+      "path": "broad/40m/full_feature_lr/seed111001.npz",
+      "max_delta": 9.43689570931383e-16
+    },
+    {
+      "path": "broad/40m/random_forest/seed111001.npz",
+      "max_delta": 4.440892098500626e-16
+    },
+    {
+      "path": "broad/40m/random_forest/seed111017.npz",
+      "max_delta": 4.440892098500626e-16
+    },
+    {
+      "path": "broad/40m/random_forest/seed111031.npz",
+      "max_delta": 2.220446049250313e-16
+    },
+    {
+      "path": "broad/40m/random_forest/seed111043.npz",
+      "max_delta": 4.440892098500626e-16
+    },
+    {
+      "path": "broad/40m/random_forest/seed111059.npz",
+      "max_delta": 3.3306690738754696e-16
+    },
+    {
+      "path": "broad/40m/random_forest/seed111071.npz",
+      "max_delta": 4.440892098500626e-16
+    },
+    {
+      "path": "broad/40m/random_forest/seed111089.npz",
+      "max_delta": 2.220446049250313e-16
+    },
+    {
+      "path": "broad/40m/random_forest/seed111103.npz",
+      "max_delta": 4.440892098500626e-16
+    },
+    {
+      "path": "broad/40m/random_forest/seed111127.npz",
+      "max_delta": 4.440892098500626e-16
+    },
+    {
+      "path": "broad/40m/random_forest/seed111139.npz",
+      "max_delta": 4.440892098500626e-16
+    }
+  ]
+}
