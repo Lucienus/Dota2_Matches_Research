@@ -154,10 +154,3 @@ in `reference_tables/`. `table_sources.json` identifies both the current scored
 reports and those supplementary sources. When changing models or data, rerun the
 corresponding supplementary analyses before updating their tables and claims.
 Their original implementations are retained in `study_sources/`.
-
-## Publish this version
-
-The author manages GitHub publication. After uploading the verified package,
-record the actual commit or tag and use that version consistently in the
-manuscript, Supplementary Information, and cover letter. `UPLOAD_ZH.md` provides
-the upload checklist.
