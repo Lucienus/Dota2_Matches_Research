@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+raw_downloads/
+outputs/
+*.npz
+*.pt
+*.joblib
+.env
