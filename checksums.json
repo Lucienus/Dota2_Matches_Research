@@ -9,7 +9,7 @@
   "make_indexes.py": "2eac6ea0d2b43f50c4b279ef9ca4408428cb2c1123d519345b16eae562d5126a",
   "pipeline.py": "468d9c06513580875251687d59b3f56ededed9eb8498344d8d4dc9e4180a6f43",
   "pipeline_common.py": "4e6342661495c094ee2ba21e5ce7737a4661708fc1074cbb49f909d9e3cdff16",
-  "README.md": "5c2bb7fdbba1bef7977dec23c79f6456472de3dabe28c79588238417849c3a0c",
+  "README.md": "19f9ffc1104f3a9f29e6c797200d3ac4c801c14ef4debff24be3e450266bb871",
   "rebuild_inputs.py": "ce23ca95df6528e7c7a0284a11b83eb6f8e1199c879ffd2b7410c97f4b81f5a5",
   "release.py": "f84206b53cac098dbcada60204859377c4e45a2d26d916e1d0586074167f5d37",
   "requirements-full.txt": "b9df487f2633798da93e883f03e9f8435011df34b1efb98fc841e5f6c6ac5271",
@@ -78,5 +78,7 @@
   "study_sources/wp5_scope/worker_scope.py": "b972cee59e4b9489795653f98b8188c4490f80ca45e0736218bdb9aca6f04aaa",
   "study_sources/wp6_evaluation/boundary_probe.py": "18e6d6205831c370df5f2efcf9b8e7171a678845e9a93d70c8865f58ebe0fd7a",
   "study_sources/wp6_evaluation/resolution_common.py": "ce1cbe3738b8eec92f8fad37e8c4ded72abe174a7abef937e475eb793efcc573",
-  "study_sources/wp6_evaluation/worker_resolution.py": "b8b72f7473e66649a773ef36a5c0a2a4a4a3123856f2937b2721f1cf5399a1a1"
+  "study_sources/wp6_evaluation/worker_resolution.py": "b8b72f7473e66649a773ef36a5c0a2a4a4a3123856f2937b2721f1cf5399a1a1",
+  "figures/plot_scope_sampling.py": "b5f0d71c4b9015b41a2609578337e2e6d8f942f6f90e91724d9a671d9489c3ea",
+  "figures/F2_plotted_values.csv": "6d883bee32dd4ab49cde77c33af9ed21643a5cb2bd337da962b36b5fdca0bb91"
 }

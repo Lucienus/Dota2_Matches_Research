@@ -34,6 +34,21 @@ the verified reproduction workflow below.
 Author-written code is released under MIT, copyright Luchang Yang. Metadata retain
 their third-party terms; see `LICENSE_SCOPE.md`.
 
+## Reproduce manuscript Figure 4
+
+From the repository root, run the following with Python and Matplotlib
+(tested with Python 3.12 and Matplotlib 3.11.2).
+
+```text
+python -m pip install matplotlib==3.11.2
+python figures/plot_scope_sampling.py figures/F2_plotted_values.csv F2_scope_sampling.pdf
+```
+
+The 14 plotted means cover the full and listed targets. The original matched
+sample has a ten-seed estimate and a three-seed estimate. The five new samples
+use the same three seeds. Figure generation reads the bundled aggregate CSV
+and runs on CPU without match files or trained models.
+
 ## Environment
 
 The verified configuration uses Python 3.12.14 on Windows, CUDA 12.8, and an
